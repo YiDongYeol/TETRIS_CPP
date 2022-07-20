@@ -13,7 +13,7 @@
 
 <br/>
   
-![Server_Screen]()
+![Server_Screen](https://github.com/YiDongYeol/TETRIS_SERVER_CPP/blob/main/capture/server.png)
 ###### 서버 화면
 
 <br/>
